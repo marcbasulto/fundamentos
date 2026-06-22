@@ -1,0 +1,2 @@
+# fundamentos
+curso python
